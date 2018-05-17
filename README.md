@@ -1,6 +1,4 @@
-# yoyi tools 
-
-offline tools for react component
+# yoyi cli
 
 [![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/yoyi-tools)
 [![node version][node-image]][node-url]
