@@ -1,10 +1,10 @@
 {
   "name": "yoyi-tools",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "description": "offline tools for yoyi",
   "main": "index.js",
   "scripts": {
-    "pub": "npm publish",
+    "pub": "git push origin && npm publish",
     "postinstall": "node lib/init.js",
     "lint": "eslint lib"
   },

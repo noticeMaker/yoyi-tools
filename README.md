@@ -14,6 +14,10 @@ offline tools for react component
 [download-image]: https://img.shields.io/npm/dm/yoyi-tools.svg?style=flat-square
 [download-url]: https://npmjs.org/package/yoyi-tools
 
+## Install 
+```
+    npm install yoyi-tools 
+```
 
 ## Usage
 
