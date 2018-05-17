@@ -1,6 +1,6 @@
 {
   "name": "yoyi-tools",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "offline tools for yoyi",
   "main": "index.js",
   "scripts": {
