@@ -4,7 +4,7 @@
   "description": "offline tools for yoyi",
   "main": "index.js",
   "scripts": {
-    "pub": "git push origin && npm publish",
+    "pub": "git push origin master && npm publish",
     "postinstall": "node lib/init.js",
     "lint": "eslint lib"
   },
