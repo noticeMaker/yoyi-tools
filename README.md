@@ -1,6 +1,4 @@
-# yoyi tools 
-
-offline tools for react component
+# yoyi-tools
 
 [![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/yoyi-tools)
 ![CircleCI](https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser.svg)
