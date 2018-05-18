@@ -15,8 +15,9 @@
 ## Usage
 
 ```
-    yoyi-tools run start|server : stÂart dev server 
-    yoyi-tools run build :  build 
+yoyi-tools run start|server : start dev server 
+yoyi-tools run build :  build 
+
 ```
 
 ## Need to configure the entry

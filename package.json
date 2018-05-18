@@ -1,6 +1,6 @@
 {
   "name": "yoyi-tools",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "offline tools for yoyi",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,7 @@
     "postinstall": "node lib/init.js",
     "lint": "eslint lib"
   },
+  "homepage": "https://github.com/noticeMaker/yoyi-tools",
   "keywords": [
     "tools",
     "yoyi"
