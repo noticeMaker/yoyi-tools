@@ -7,6 +7,8 @@
 [download-image]: https://img.shields.io/npm/dm/yoyi-tools.svg?style=flat-square
 [download-url]: https://npmjs.org/package/yoyi-tools
 
+Cross-project use, Helps you manage webpack configuration
+
 ## Install 
 ```
     npm install yoyi-tools 
